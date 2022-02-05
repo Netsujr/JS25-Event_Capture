@@ -1,0 +1,5 @@
+function logText(event) {
+
+  log
+
+}
